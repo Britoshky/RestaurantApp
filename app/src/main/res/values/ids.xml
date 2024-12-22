@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- IDs para el primer platillo -->
+    <item name="etCantidadPlatillo1" type="id" />
+    <item name="tvSubtotalPlatillo1" type="id" />
+    <item name="ivPlatillo1" type="id" />
+    <item name="tvPlatillo1" type="id" />
+    <item name="tvPrecioPlatillo1" type="id" />
+
+    <!-- IDs para el segundo platillo -->
+    <item name="etCantidadPlatillo2" type="id" />
+    <item name="tvSubtotalPlatillo2" type="id" />
+    <item name="ivPlatillo2" type="id" />
+    <item name="tvPlatillo2" type="id" />
+    <item name="tvPrecioPlatillo2" type="id" />
+
+    <!-- IDs para elementos generales -->
+    <item name="tvTitle" type="id" />
+    <item name="switchPropina" type="id" />
+    <item name="tvTotales" type="id" />
+</resources>
